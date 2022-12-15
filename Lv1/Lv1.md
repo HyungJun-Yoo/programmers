@@ -11,3 +11,4 @@
 07|문자열 내 p와 y의 개수|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/문자열%20내%20p와%20y의%20개수.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12916?language=javascript)|
 08|x만큼 간격이 있는 n개의 숫자|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/x만큼%20간격이%20있는%20n개의%20숫자.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12954?language=javascript)|
 09|문자열을 정수로 바꾸기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/문자열을%20정수로%20바꾸기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=javascript)|
+10|하샤드 수|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/하샤드%20수.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=javascript)|
