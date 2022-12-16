@@ -2,7 +2,7 @@
 
 난이도|문제 링크|해결한 문제 수| 전체 문제 수
 ------|---|:---:|:---:|
-레벨1|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/Lv1.md)|11|67
+레벨1|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/Lv1.md)|12|67
 
 
 ## 커밋 규칙
