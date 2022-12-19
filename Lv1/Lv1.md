@@ -17,3 +17,4 @@
 13|두 정수 사이의 합|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/두%20정수%20사이의%20합.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=javascript)|
 14|콜라츠 추측|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/콜라츠%20추측.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)|
 15|서울에서 김서방 찾기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/서울에서%20김서방%20찾기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=javascript)|
+16|핸드폰 번호 가리기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/핸드폰%20번호%20가리기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=javascript)|
