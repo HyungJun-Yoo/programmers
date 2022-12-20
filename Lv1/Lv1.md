@@ -21,3 +21,4 @@
 17|나누어 떨어지는 숫자 배열|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/나누어%20떨어지는%20숫자%20배열.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12910?language=javascript)|
 18|제일 작은 수 제거하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/제일%20작은%20수%20제거하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12935?language=javascript)|
 19|음양 더하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/음양%20더하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/76501?language=javascript)|
+20|없는 숫자 더하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/없는%20숫자%20더하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=javascript)|
