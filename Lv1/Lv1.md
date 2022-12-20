@@ -22,3 +22,4 @@
 18|제일 작은 수 제거하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/제일%20작은%20수%20제거하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12935?language=javascript)|
 19|음양 더하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/음양%20더하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/76501?language=javascript)|
 20|없는 숫자 더하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/없는%20숫자%20더하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=javascript)|
+21|가운데 글자 가져오기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/가운데%20글자%20가져오기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12903?language=javascript)|
