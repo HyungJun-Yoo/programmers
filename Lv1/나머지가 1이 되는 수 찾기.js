@@ -1,4 +1,4 @@
-// 연습문제
+// 월간 코드 챌린지 시즌3
 // https://school.programmers.co.kr/learn/courses/30/lessons/87389?language=javascript
 
 function solution(n) {
