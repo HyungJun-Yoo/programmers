@@ -24,3 +24,4 @@
 20|없는 숫자 더하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/없는%20숫자%20더하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=javascript)|
 21|가운데 글자 가져오기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/가운데%20글자%20가져오기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12903?language=javascript)|
 22|수박수박수박수박수박수|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/수박수박수박수박수박수.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=javascript)|
+23|내적|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/내적.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/70128?language=javascript)|
