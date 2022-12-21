@@ -25,3 +25,4 @@
 21|가운데 글자 가져오기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/가운데%20글자%20가져오기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12903?language=javascript)|
 22|수박수박수박수박수박수|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/수박수박수박수박수박수.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=javascript)|
 23|내적|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/내적.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/70128?language=javascript)|
+24|문자열 내림차순으로 배치하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/문자열%20내림차순으로%20배치하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=javascript)|
