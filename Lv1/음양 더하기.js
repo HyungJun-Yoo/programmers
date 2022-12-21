@@ -1,4 +1,4 @@
-// 연습문제
+// 월간 코드 챌린지 시즌2
 // https://school.programmers.co.kr/learn/courses/30/lessons/76501?language=javascript
 
 function solution(absolutes, signs) {
