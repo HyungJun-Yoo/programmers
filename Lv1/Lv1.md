@@ -27,3 +27,4 @@
 23|내적|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/내적.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/70128?language=javascript)|
 24|문자열 내림차순으로 배치하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/문자열%20내림차순으로%20배치하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=javascript)|
 25|약수의 개수와 덧셈|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/약수의%20개수와%20덧셈.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/77884?language=javascript)|
+26|문자열 다루기 기본|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/문자열%20다루기%20기본.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=javascript)|
