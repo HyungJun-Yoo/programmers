@@ -32,3 +32,4 @@
 28|행렬의 덧셈|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/행렬의%20덧셈.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=javascript)|
 29|직사각형 별찍기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/직사각형%20별찍기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=javascript)|
 30|최대공약수와 최소공배수|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/최대공약수와%20최소공배수.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=javascript)|
+31|같은 숫자는 싫어|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/같은%20숫자는%20싫어.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=javascript)|
