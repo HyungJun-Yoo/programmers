@@ -34,3 +34,4 @@
 30|최대공약수와 최소공배수|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/최대공약수와%20최소공배수.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=javascript)|
 31|같은 숫자는 싫어|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/같은%20숫자는%20싫어.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=javascript)|
 32|이상한 문자 만들기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/이상한%20문자%20만들기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=javascript)|
+33|3진법 뒤집기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/3진법%20뒤집기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=javascript)|
