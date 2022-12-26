@@ -37,3 +37,4 @@
 33|3진법 뒤집기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/3진법%20뒤집기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=javascript)|
 34|예산|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/예산.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12982?language=javascript)|
 35|시저 암호|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/시저%20암호.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)|
+36|최소직사각형|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/최소직사각형.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=javascript)|
