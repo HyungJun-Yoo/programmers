@@ -38,3 +38,4 @@
 34|예산|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/예산.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12982?language=javascript)|
 35|시저 암호|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/시저%20암호.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)|
 36|최소직사각형|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/최소직사각형.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=javascript)|
+37|[1차] 비밀지도|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/[1차]%20비밀지도.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/17681?language=javascript)|
