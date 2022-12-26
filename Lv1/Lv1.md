@@ -39,3 +39,4 @@
 35|시저 암호|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/시저%20암호.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)|
 36|최소직사각형|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/최소직사각형.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=javascript)|
 37|[1차] 비밀지도|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/[1차]%20비밀지도.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/17681?language=javascript)|
+38|문자열 내 마음대로 정렬하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/문자열%20내%20마음대로%20정렬하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)|
