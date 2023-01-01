@@ -42,3 +42,4 @@
 38|문자열 내 마음대로 정렬하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/문자열%20내%20마음대로%20정렬하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)|
 39|삼총사|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/삼총사.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=javascript)|
 40|K번째수|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/K번째수.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=javascript)|
+41|숫자 문자열과 영단어|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/숫자%20문자열과%20영단어.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=javascript)|
