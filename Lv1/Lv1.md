@@ -46,3 +46,4 @@
 42|두 개 뽑아서 더하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/두%20개%20뽑아서%20더하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/68644?language=javascript)|
 43|2016년|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/2016년.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12901?language=javascript)|
 44|폰켓몬|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/폰켓몬.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/1845?language=javascript)|
+45|콜라 문제|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/콜라%20문제.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=javascript)|
