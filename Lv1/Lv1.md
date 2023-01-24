@@ -49,3 +49,4 @@
 45|콜라 문제|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/콜라%20문제.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=javascript)|
 46|크기가 작은 부분 문자열|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/크기가%20작은%20부분%20문자열.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=javascript)|
 47|소수 찾기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/소수%20찾기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12921?language=javascript)|
+48|모의고사|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/모의고사.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=javascript)|
