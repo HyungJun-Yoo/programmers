@@ -51,3 +51,4 @@
 47|소수 찾기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/소수%20찾기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12921?language=javascript)|
 48|모의고사|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/모의고사.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=javascript)|
 49|소수 만들기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/소수%20만들기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=javascript)|
+50|푸드 파이트 대회|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/푸드%20파이트%20대회.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=javascript)|
