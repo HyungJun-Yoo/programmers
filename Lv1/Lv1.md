@@ -54,4 +54,4 @@
 50|푸드 파이트 대회|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/푸드%20파이트%20대회.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=javascript)|
 51|실패율|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/실패율.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)|
 52|가장 가까운 같은 글자|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/가장%20가까운%20같은%20글자.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=javascript)|
-53|[1차] 다트 게임|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/[1차]%20다트게임.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/17682?language=javascript)|
+53|[1차] 다트 게임|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/[1차]%20다트%20게임.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/17682?language=javascript)|
