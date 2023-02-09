@@ -56,3 +56,4 @@
 52|가장 가까운 같은 글자|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/가장%20가까운%20같은%20글자.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=javascript)|
 53|[1차] 다트 게임|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/[1차]%20다트%20게임.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/17682?language=javascript)|
 54|과일 장수|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/과일%20장수.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/135808?language=javascript)|
+55|로또의 최고 순위와 최저 순위|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/로또의%20최고%20순위와%20최저%20순위.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/135808?language=javascript)|
