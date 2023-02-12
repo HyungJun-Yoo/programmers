@@ -58,3 +58,4 @@
 54|과일 장수|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/과일%20장수.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/135808?language=javascript)|
 55|로또의 최고 순위와 최저 순위|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/로또의%20최고%20순위와%20최저%20순위.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/135808?language=javascript)|
 56|명예의 전당 (1)|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/명예의%20전당%20(1).js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=javascript)|
+57|체육복|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/체육복.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=javascript)|
