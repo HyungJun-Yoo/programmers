@@ -60,3 +60,4 @@
 56|명예의 전당 (1)|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/명예의%20전당%20(1).js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=javascript)|
 57|체육복|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/체육복.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=javascript)|
 58|완주하지 못한 선수|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/완주하지%20못한%20선수.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=javascript)|
+59|숫자 짝꿍|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/숫자%20짝꿍.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=javascript)|
