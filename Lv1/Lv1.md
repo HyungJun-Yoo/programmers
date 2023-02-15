@@ -62,3 +62,4 @@
 58|완주하지 못한 선수|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/완주하지%20못한%20선수.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=javascript)|
 59|숫자 짝꿍|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/숫자%20짝꿍.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=javascript)|
 60|기사단원의 무기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/기사단원의%20무기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/136798?language=javascript)|
+61|옹알이 (2)|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/옹알이%20(2).js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/133499?language=javascript)|
