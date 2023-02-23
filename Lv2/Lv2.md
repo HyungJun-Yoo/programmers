@@ -7,3 +7,4 @@
 03|올바른 괄호|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/올바른%20괄호.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=javascript)|
 04|최솟값 만들기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/최솟값%20만들기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12941?language=javascript)|
 05|이진 변환 반복하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/이진%20변환%20반복하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/70129?language=javascript)|
+06|숫자의 표현|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/숫자의%20표현.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12924?language=javascript)|
