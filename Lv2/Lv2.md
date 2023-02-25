@@ -10,3 +10,4 @@
 06|숫자의 표현|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/숫자의%20표현.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12924?language=javascript)|
 07|피보나치 수|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/피보나치%20수.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12945?language=javascript)|
 08|다음 큰 숫자|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/다음%20큰%20숫자.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12911?language=javascript)|
+09|짝지어 제거하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/짝지어%20제거하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12973?language=javascript)|
