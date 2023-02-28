@@ -15,3 +15,4 @@
 11|카펫|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/카펫.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42842?language=javascript)|
 12|구명보트|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/구명보트.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42885?language=javascript)|
 13|예상 대진표|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/예상%20대진표.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12985?language=javascript)|
+14|점프와 순간 이동|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/점프와%20순간%20이동.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12980?language=javascript)|
