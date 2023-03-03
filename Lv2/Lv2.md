@@ -17,3 +17,4 @@
 13|예상 대진표|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/예상%20대진표.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12985?language=javascript)|
 14|점프와 순간 이동|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/점프와%20순간%20이동.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12980?language=javascript)|
 15|N개의 최소공배수|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/N개의%20최소공배수.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12953?language=javascript)|
+16|멀리 뛰기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/멀리%20뛰기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12914?language=javascript)|
