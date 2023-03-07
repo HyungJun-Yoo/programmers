@@ -19,3 +19,4 @@
 15|N개의 최소공배수|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/N개의%20최소공배수.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12953?language=javascript)|
 16|멀리 뛰기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/멀리%20뛰기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12914?language=javascript)|
 17|H-Index|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/H-Index.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42747?language=javascript)|
+18|괄호 회전하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/괄호%20회전하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/76502?language=javascript)|
