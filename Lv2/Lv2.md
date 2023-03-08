@@ -20,3 +20,4 @@
 16|멀리 뛰기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/멀리%20뛰기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12914?language=javascript)|
 17|H-Index|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/H-Index.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42747?language=javascript)|
 18|괄호 회전하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/괄호%20회전하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/76502?language=javascript)|
+19|[1차] 캐시|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv2/[1차]%20캐시.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/17680?language=javascript)|
