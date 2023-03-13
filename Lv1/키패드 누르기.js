@@ -66,7 +66,7 @@ function solution(numbers, hand) {
         answer += "R";
       }
 
-      // 서로 같으면 주로 사용하는 손을 비교
+      // 서로 같으면 주로 사용하는 손을 확인
       else {
         if (hand === "left") {
           left_hand = number;
