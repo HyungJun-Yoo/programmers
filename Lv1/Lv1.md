@@ -66,3 +66,4 @@
 62|카드 뭉치|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/카드%20뭉치.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/159994?language=javascript)|
 63|키패드 누르기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/키패드%20누르기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/67256?language=javascript)|
 64|크레인 인형뽑기 게임|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/크레인%20인형뽑기%20게임.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/64061?language=javascript)|
+65|문자열 나누기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/문자열%20나누기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/140108?language=javascript)|
