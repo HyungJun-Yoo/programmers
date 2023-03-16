@@ -68,3 +68,4 @@
 64|크레인 인형뽑기 게임|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/크레인%20인형뽑기%20게임.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/64061?language=javascript)|
 65|문자열 나누기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/문자열%20나누기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/140108?language=javascript)|
 66|신규 아이디 추천|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/신규%20아이디%20추천.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/72410?language=javascript)|
+67|성격 유형 검사하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/성격%20유형%20검사하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=javascript)|
