@@ -71,3 +71,4 @@
 67|성격 유형 검사하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/성격%20유형%20검사하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=javascript)|
 68|햄버거 만들기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/햄버거%20만들기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/133502?language=javascript)|
 69|둘만의 암호|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/둘만의%20암호.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/155652?language=javascript)|
+70|덧칠하기|[바로가기](https://github.com/HyungJun-Yoo/programmers/blob/main/Lv1/덧칠하기.js)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/161989?language=javascript)|
